@@ -1,16 +1,45 @@
 ## Hi there 👋
 
 <!--
-**Dinesh-0606/Dinesh-0606** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Dinesh-0606/Dinesh-06# Hi 👋 I'm Dinesh
 
-Here are some ideas to get you started:
+🎓 BCA Graduate  
+💻 Aspiring Data Scientist | Python Developer  
+📍 Telangana, India  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🚀 Skills
+
+- Python
+- SQL
+- Machine Learning
+- Data Analysis
+- Pandas
+- NumPy
+
+---
+
+## 📊 Projects
+
+- Credit Card Fraud Detection using AdaBoost
+- Netflix Data Analysis using Python
+- House Price Prediction (Machine Learning)
+- SQL Data Analysis Project
+
+---
+
+## 📚 Currently Learning
+
+- Data Science
+- Artificial Intelligence
+- Machine Learning
+
+---
+
+## 📫 Contact Me
+
+Email: dineshdinny99@email.com  
+GitHub: https://github.com/Dinesh-060606** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+
